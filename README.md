@@ -1,7 +1,3 @@
-## Django Social Network
-
-#### An open source Social Network
-
 Used Tech Stack
 
 1. [Django](https://docs.djangoproject.com/en/3.1/)
